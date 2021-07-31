@@ -1,10 +1,14 @@
-# estoque
+## Curso de Clojure
 
-A Clojure library designed to ... well, that part is up to you.
+- Plataforma: [Alura](https://www.alura.com.br/)
 
-## Usage
+## Descrição
 
-FIXME
+- Entenda a importância da imutabilidade em Clojure
+- Aprenda como lidar com funções como dados
+- Passe funções como parâmetros, retorne funções
+- Utilize map e reduce como base no seu dia a dia funcional
+- Trabalhe com vetores, mapas e threading em Clojure
 
 ## License
 
