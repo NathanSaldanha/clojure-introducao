@@ -1,7 +1,8 @@
 ## Curso de Clojure
 
 - Plataforma: [Alura](https://www.alura.com.br/)
-
+  - [Clojure: Introdução à programação funcional](https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional)
+  - [Clojure: Coleções no dia a dia](https://cursos.alura.com.br/course/clojure-colecoes-no-dia-a-dia)
 ## Descrição
 
 - Entenda a importância da imutabilidade em Clojure
